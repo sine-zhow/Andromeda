@@ -1,0 +1,9 @@
+hardware/out/
+hardware/verification/
+hardware/.vscode/
+hardware/.metals/
+out/
+.metals/
+.idea/
+*.class
+*.log
